@@ -2,13 +2,13 @@
 
 ### From the Precipice of Knowledge to the Horizons of Emancipation
 
-#### _A multimodal manifesto — poetry, essay, image — that rejects epistemic clientelism and affirms that emancipation begins with doubt, silence, and refusal_
+by Peter Kahl, 2025-09-03; v2: 2025-09-04
 
-by Peter Kahl, 3 September 2025
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17301139.svg)](https://doi.org/10.5281/zenodo.17301139) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/blob/main/manifesto_of_free_thinker.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 A multimodal odyssey in seven movements — from the dependency of the student, through the theatre of the university and the seal of accreditation, to the crack of doubt, the act of self-emancipation, and finally the manifesto that opens onto a city of free thinkers. Each stage is rendered through poetry, essay, and image, treated as coequal epistemic registers: the poem enacts, the prose situates, the image exposes. This form is not ornamental but methodological. To resist epistemic domestication, philosophy must refuse monomodality.
 
@@ -18,29 +18,26 @@ Against this order, the work advances the case for fiduciary openness: epistemic
 
 The cycle culminates in a manifesto of unfettered thought, proposing a reimagined motto for knowledge: _Epistemic Liberty, Equality of Voices, Fraternity of Free Thinkers_. It calls for a city where silence is fertile rather than imposed, libraries are gardens rather than prisons of paper, and knowledge circulates not as property but as fiduciary trust. The invitation is collective: to breathe together in the open space created when certainty falls and doubt begins.
 
-### Keywords
+## Keywords
 
 epistemic clientelism, epistemic freedom, fiduciary openness, epistemocracy, epistemic injustice, fiduciary duties, epistemic plurality, epistemic agency, multimodal philosophy, democratic epistemology, institutional critique, higher education, silence, accreditation, emancipation, manifesto
 
-### Working Paper Status
+## Working Paper Status
 
 This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
----
-
-### Download
+## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/master/Kahl_P_Toward_a_City_of_Free_Thinkers_v2_04-SEP-2025.pdf)
 
-### Cite this work
+## Cite this work
 
-```
-Kahl, P. (2025). Toward a city of free thinkers: From the precipice of knowledge to the horizons of emancipation (2nd ed.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers
-```
+Kahl, P. (2025). _Toward a city of free thinkers: From the precipice of knowledge to the horizons of emancipation_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers DOI: https://doi.org/10.5281/zenodo.17301139
 
-### Publisher & Licence
+## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 21 September 2025.
+First published in London by Lex et Ratio Ltd, 2025-09-03.\
+v2 published in London by Lex et Ratio Ltd, 2025-09-04.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
